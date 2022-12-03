@@ -1,0 +1,2 @@
+<h4 style="color: red">ENLACE CADUCADO.</h4><br>
+<h4>FAVOR DE VOLVER A RESTABLECER LA CONTRASEÑA</h4>
